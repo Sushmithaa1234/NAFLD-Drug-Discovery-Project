@@ -6,6 +6,8 @@ Non-Alcoholic Fatty Liver Disease (NAFLD) is an increasingly prevalent metabolic
 
 The goal was to identify potential PPAR-α ligands using computational docking and visualize their interactions to shortlist promising lead molecules.
 
+[Information on the ligands, docking results and image of the protein-ligand complex are attached]
+
 ---
 
 ## 🧪 Tools & Databases Used
