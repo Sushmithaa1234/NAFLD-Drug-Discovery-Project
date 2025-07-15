@@ -16,7 +16,7 @@ The goal was to identify potential PPAR-α ligands using computational docking a
 | Ligand Preparation | PyMOL / OpenBabel          |
 | Docking Tool       | CB-Dock2                   |
 | Visualization      | PyMOL                      |
-| Protein Target     | UniProt (P37231), RCSB PDB |
+| Protein Target     | UniProt (P37231), RCSB PDB (2P54) |
 
 ---
 
@@ -24,7 +24,7 @@ The goal was to identify potential PPAR-α ligands using computational docking a
 
 * **Name:** PPAR-α (Peroxisome Proliferator-Activated Receptor Alpha)
 * **UniProt ID:** P37231
-* **Structure Used:** PDB ID: \[insert PDB ID used] (chain A)
+* **Structure Used:** PDB ID: 2P54 (chain A)
 * Water molecules and heteroatoms removed before docking
 
 ---
