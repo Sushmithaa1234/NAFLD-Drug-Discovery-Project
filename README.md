@@ -142,12 +142,12 @@ B.Tech Biotechnology, VIT Vellore
 
 ## 🔗 Related Links
 
+* [NAFLD Fact Sheet](https://liverfoundation.org/wp-content/uploads/2022/06/NAFLD-Fact-Sheet.pdf)
 * [IMPPAT: Indian Medicinal Plants, Phytochemistry and Therapeutics](https://cb.imsc.res.in/imppat/)
 * [CB-Dock2](https://cadd.labshare.cn/cb-dock2/)
 * [PPAR-α UniProt Entry (P37231)](https://www.uniprot.org/uniprot/P37231)
 * [RCSB PDB](https://www.rcsb.org/)
 * [PyMOL](https://pymol.org/2/)
-
 ---
 
 ## 📣 License
